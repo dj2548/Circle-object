@@ -1,0 +1,15 @@
+C:\Users\Somber\source\repo 3\circle objects\circle objects\bin\Debug\net6.0\circle objects.exe
+C:\Users\Somber\source\repo 3\circle objects\circle objects\bin\Debug\net6.0\circle objects.deps.json
+C:\Users\Somber\source\repo 3\circle objects\circle objects\bin\Debug\net6.0\circle objects.runtimeconfig.json
+C:\Users\Somber\source\repo 3\circle objects\circle objects\bin\Debug\net6.0\circle objects.dll
+C:\Users\Somber\source\repo 3\circle objects\circle objects\bin\Debug\net6.0\circle objects.pdb
+C:\Users\Somber\source\repo 3\circle objects\circle objects\obj\Debug\net6.0\circle objects.csproj.AssemblyReference.cache
+C:\Users\Somber\source\repo 3\circle objects\circle objects\obj\Debug\net6.0\circle objects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Somber\source\repo 3\circle objects\circle objects\obj\Debug\net6.0\circle objects.AssemblyInfoInputs.cache
+C:\Users\Somber\source\repo 3\circle objects\circle objects\obj\Debug\net6.0\circle objects.AssemblyInfo.cs
+C:\Users\Somber\source\repo 3\circle objects\circle objects\obj\Debug\net6.0\circle objects.csproj.CoreCompileInputs.cache
+C:\Users\Somber\source\repo 3\circle objects\circle objects\obj\Debug\net6.0\circle objects.dll
+C:\Users\Somber\source\repo 3\circle objects\circle objects\obj\Debug\net6.0\refint\circle objects.dll
+C:\Users\Somber\source\repo 3\circle objects\circle objects\obj\Debug\net6.0\circle objects.pdb
+C:\Users\Somber\source\repo 3\circle objects\circle objects\obj\Debug\net6.0\circle objects.genruntimeconfig.cache
+C:\Users\Somber\source\repo 3\circle objects\circle objects\obj\Debug\net6.0\ref\circle objects.dll
